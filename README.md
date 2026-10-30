@@ -150,12 +150,6 @@ The dashboard includes the following views:
 
 ### Dashboard Preview
 
-Add your Tableau dashboard screenshot to the repository and update the image path below:
-
-```markdown
-![Cyclistic Tableau Dashboard](cyclistic_dashboard.png)
-```
-
 **Live Dashboard:** https://public.tableau.com/views/cyclistic_17933710455460/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Business Recommendations
